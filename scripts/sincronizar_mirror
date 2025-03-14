@@ -1,0 +1,26 @@
+#!/bin/bash
+# Hecho 09102023
+
+fecha=$(date +%d%m%y)
+dirmirror="/home/ftp/Slackware/slackware64-current/"
+dirisos="/home/ftp/isos/"
+dirrsync="rsync://mirror.slackbuilds.org"
+#dirrsync="rsync://mirrors.kernel.org"
+#dirrsync="rsync://slackware.cs.utah.edu"
+#
+echo
+echo "Sincronizando $dirmirror con el servidor $dirrsync/. "
+echo 
+cd $dirmirror
+rsync -havP --delete --delete-after --no-o --no-g --safe-links --timeout=60 --contimeout=30 --exclude "source/"  $dirrsync/slackware/slackware64-current/ .
+echo
+if [ $? -eq 0 ];
+then
+	echo "  -= Fin de la sincronización... =-"
+else
+	echo " -=  Hubo un error en la ejecución. =-" 
+fi
+echo
+
+
+
