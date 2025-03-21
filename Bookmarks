@@ -1,0 +1,339 @@
+{
+   "checksum": "3811c129ce07135f678fbff1fa7f3c74",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13380305072000000",
+               "date_last_used": "0",
+               "guid": "b42e065f-fc20-471c-aed0-1aea83c10958",
+               "id": "6",
+               "name": "The Slackware",
+               "type": "url",
+               "url": "http://www.slackware.com/"
+            }, {
+               "date_added": "13380305205000000",
+               "date_last_used": "13386293728166225",
+               "guid": "4c662de4-89ec-42ff-8b36-47d7264f6269",
+               "id": "7",
+               "name": "Changelog slackbuilds",
+               "type": "url",
+               "url": "https://mirror.slackbuilds.org/slackware/slackware64-current/ChangeLog.txt"
+            }, {
+               "date_added": "13380305290000000",
+               "date_last_used": "13387055114022495",
+               "guid": "d0925362-1ce8-41f9-81fa-81390377ef81",
+               "id": "8",
+               "name": "ChangeLog Croacia",
+               "type": "url",
+               "url": "https://mirror.slackware.hr/slackware/slackware64-current/ChangeLog.txt"
+            }, {
+               "date_added": "13380325248000000",
+               "date_last_used": "13386985578053433",
+               "guid": "266069fb-a4b3-4038-a409-2e6e85751e5f",
+               "id": "9",
+               "name": "Directory Tree",
+               "type": "url",
+               "url": "http://matoda.pw/report/"
+            }, {
+               "date_added": "13380332523000000",
+               "date_last_used": "13386795622547551",
+               "guid": "29096611-53df-424c-8a66-ed541ee58b03",
+               "id": "10",
+               "name": "Slackware UK",
+               "type": "url",
+               "url": "https://slackware.uk/"
+            }, {
+               "date_added": "13380501674000000",
+               "date_last_used": "13381675163412889",
+               "guid": "fa8406fe-e217-4313-b290-bfd08012e8b7",
+               "id": "11",
+               "name": "multilib",
+               "type": "url",
+               "url": "https://slackware.uk/people/alien/multilib/"
+            }, {
+               "date_added": "13380504289000000",
+               "date_last_used": "13387041381280655",
+               "guid": "480d4796-5a5d-4783-89ad-ed6656204b7e",
+               "id": "12",
+               "name": "AlienBOB",
+               "type": "url",
+               "url": "https://slackware.uk/people/alien/sbrepos/"
+            }, {
+               "date_added": "13380745266000000",
+               "date_last_used": "13386795775331419",
+               "guid": "fd4fca85-ebca-4009-8447-cb8d2f56e785",
+               "id": "13",
+               "name": "Mate-desktop",
+               "type": "url",
+               "url": "https://pub.mate-desktop.org/"
+            }, {
+               "date_added": "13381104837000000",
+               "date_last_used": "13386972334897494",
+               "guid": "80124fea-39a4-425a-9c29-039689f70d67",
+               "id": "14",
+               "name": "Slackware NL",
+               "type": "url",
+               "url": "https://slackware.nl/"
+            }, {
+               "date_added": "13381509179000000",
+               "date_last_used": "13386975692400246",
+               "guid": "4a6c0255-975c-4e73-963d-7d2037ca5cbf",
+               "id": "15",
+               "name": "GitHub - brave-browser",
+               "type": "url",
+               "url": "https://github.com/brave/brave-browser"
+            }, {
+               "date_added": "13384636728273127",
+               "date_last_used": "13386976163754304",
+               "guid": "4a34ceb1-de14-4168-9a77-0db7ea19d323",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Index of nwg-shell",
+               "type": "url",
+               "url": "https://slackware.lngn.net/pub/x86_64/slackware64-current/nwg-shell/"
+            }, {
+               "date_added": "13386985866164412",
+               "date_last_used": "0",
+               "guid": "480cc84a-89b4-477c-8c6d-ba8b5d67460a",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "appimage ñibreoffice",
+               "type": "url",
+               "url": "https://appimages.libreitalia.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13387062197315738",
+                  "date_last_used": "0",
+                  "guid": "0f4cadd1-800b-41e6-932b-61db8f173923",
+                  "id": "44",
+                  "name": "Exportar marcadores de Chrome | Tutorial y consejos - IONOS",
+                  "type": "url",
+                  "url": "https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/exportar-marcadores-de-chrome/"
+               }, {
+                  "date_added": "13387062197316400",
+                  "date_last_used": "0",
+                  "guid": "ca8bd759-61a7-47a8-82d5-08452e040869",
+                  "id": "45",
+                  "name": "Favoritos",
+                  "type": "url",
+                  "url": "chrome://bookmarks/"
+               } ],
+               "date_added": "13387062197315214",
+               "date_last_used": "0",
+               "date_modified": "13387062197316400",
+               "guid": "bf38732c-3fa2-4fbd-94c1-f9856634c83b",
+               "id": "43",
+               "name": "Nueva carpeta",
+               "type": "folder"
+            } ],
+            "date_added": "13381627150469503",
+            "date_last_used": "0",
+            "date_modified": "13387062197316631",
+            "guid": "95bdc97c-ac33-4e42-8c12-e0cd840cdac1",
+            "id": "5",
+            "name": "Slackware",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13386881042257343",
+               "date_last_used": "13386892770135090",
+               "guid": "eb0db709-585d-4385-b600-63044aea43c0",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "javaragones GitHub",
+               "type": "url",
+               "url": "https://github.com/javaragones"
+            }, {
+               "date_added": "13380303528000000",
+               "date_last_used": "13387055142446630",
+               "guid": "f176f7b1-637b-4041-9915-27dde136af6f",
+               "id": "18",
+               "name": "Hypr - GitHub",
+               "type": "url",
+               "url": "https://github.com/hyprwm"
+            }, {
+               "date_added": "13380315377000000",
+               "date_last_used": "13387055182983559",
+               "guid": "de89ce34-0eb5-4ae0-b139-097693bdf60e",
+               "id": "19",
+               "name": "Sway · GitHub",
+               "type": "url",
+               "url": "https://github.com/swaywm"
+            }, {
+               "date_added": "13380305397000000",
+               "date_last_used": "13387055200608052",
+               "guid": "2e70715c-11c0-4649-b37b-c6ba86fe687b",
+               "id": "20",
+               "name": "GitHub - Ponce",
+               "type": "url",
+               "url": "https://github.com/Ponce/slackbuilds"
+            }, {
+               "date_added": "13380303452000000",
+               "date_last_used": "13387055212679379",
+               "guid": "9c1d4201-b0ee-428b-b21f-54dee56e607c",
+               "id": "21",
+               "name": "MATE Desktop · GitHub",
+               "type": "url",
+               "url": "https://github.com/mate-desktop"
+            }, {
+               "date_added": "13380315320000000",
+               "date_last_used": "13387055223946572",
+               "guid": "1d4be5af-8034-4798-b4f2-2fbd530d6a51",
+               "id": "22",
+               "name": "GitHub - mateslackbuilds/",
+               "type": "url",
+               "url": "https://github.com/mateslackbuilds/msb"
+            }, {
+               "date_added": "13380337308000000",
+               "date_last_used": "13387055244668163",
+               "guid": "f00d2c52-a17e-46d6-a0c6-6a6cf980efc9",
+               "id": "23",
+               "name": "dnkl - Codeberg.org",
+               "type": "url",
+               "url": "https://codeberg.org/dnkl"
+            }, {
+               "date_added": "13380338227000000",
+               "date_last_used": "13386955200933992",
+               "guid": "5618f526-bcbc-4f05-b249-6a2cccf59673",
+               "id": "24",
+               "name": "GitHub - Waybar",
+               "type": "url",
+               "url": "https://github.com/Alexays/Waybar"
+            }, {
+               "date_added": "13380403446000000",
+               "date_last_used": "13381675715567269",
+               "guid": "63349d9f-9a54-4603-aec6-2a524abf0654",
+               "id": "25",
+               "name": "shotman- sourcehut",
+               "type": "url",
+               "url": "https://git.sr.ht/~whynothugo/shotman"
+            }, {
+               "date_added": "13380403592000000",
+               "date_last_used": "0",
+               "guid": "69afd1ed-98da-4fe2-80ac-d22a25b2e210",
+               "id": "26",
+               "name": "grim  sourcehut",
+               "type": "url",
+               "url": "https://git.sr.ht/~emersion/grim"
+            }, {
+               "date_added": "13380405011000000",
+               "date_last_used": "13381675725591914",
+               "guid": "c0607056-7196-4853-8f8c-b1e4fdbb97d2",
+               "id": "27",
+               "name": "GitHub -mako",
+               "type": "url",
+               "url": "https://github.com/emersion/mako"
+            }, {
+               "date_added": "13380676618000000",
+               "date_last_used": "0",
+               "guid": "356e324a-adbd-4a27-8f8f-f67dc22f433e",
+               "id": "28",
+               "name": "wofi - sourcehut",
+               "type": "url",
+               "url": "https://hg.sr.ht/~scoopta/wofi"
+            }, {
+               "date_added": "13384636665855197",
+               "date_last_used": "13387055614100459",
+               "guid": "eee9ff26-3d5a-4411-87f2-3f096159ec68",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub-nwg-shell_slackbuilds",
+               "type": "url",
+               "url": "https://github.com/mac-a-r0ni/nwg-shell_slackbuilds"
+            } ],
+            "date_added": "13381627150478287",
+            "date_last_used": "0",
+            "date_modified": "13386985866164412",
+            "guid": "de1238f8-de30-47a9-92ac-34ce8d4dfddb",
+            "id": "16",
+            "name": "GitHub",
+            "type": "folder"
+         }, {
+            "date_added": "13380295639000000",
+            "date_last_used": "13387061672573022",
+            "guid": "ff093f98-998a-4635-9019-b94c6a949df8",
+            "id": "29",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13380315228000000",
+            "date_last_used": "13387061671160742",
+            "guid": "ecd0e952-4d81-400f-b597-5ff97bb8cd16",
+            "id": "30",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.live.com/mail/0/"
+         }, {
+            "date_added": "13380315447000000",
+            "date_last_used": "13387061670972466",
+            "guid": "607c7c28-283f-457c-b7f3-10f0f54c2692",
+            "id": "31",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13380301428000000",
+            "date_last_used": "13387061670506042",
+            "guid": "5fad6767-c2be-4bd0-a2f9-1222493b2a7a",
+            "id": "32",
+            "name": "Banco Macro",
+            "type": "url",
+            "url": "https://www.macro.com.ar/bancainternet/#"
+         }, {
+            "date_added": "13380324686000000",
+            "date_last_used": "13387061674656259",
+            "guid": "7f326c53-2d54-4cf5-a17d-d8b2dd54a226",
+            "id": "33",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13380330961000000",
+            "date_last_used": "13387061671734054",
+            "guid": "9e18f65c-8981-4629-aaf1-01a8703ef6ef",
+            "id": "34",
+            "name": "VEA Cencosud",
+            "type": "url",
+            "url": "https://supermercadosvea.com.ar/mendoza/vea-ofertas/"
+         } ],
+         "date_added": "13381627109496238",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13381627109496241",
+         "date_last_used": "0",
+         "date_modified": "13384636665855197",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13381627109496243",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del dispositivo",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

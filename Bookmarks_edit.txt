@@ -1,0 +1,96 @@
+SLACKWARE
+
+"name": "The Slackware",
+"url": "http://www.slackware.com/"
+           
+"name": "Changelog slackbuilds",
+"url": "https://mirror.slackbuilds.org/slackware/slackware64-current/ChangeLog.txt"
+           
+"name": "ChangeLog Croacia",
+"url": "https://mirror.slackware.hr/slackware/slackware64-current/ChangeLog.txt"
+           
+"name": "Directory Tree",
+"url": "http://matoda.pw/report/"
+           
+"name": "Slackware UK",
+"url": "https://slackware.uk/"
+           
+"name": "AlienBOB",
+"url": "https://slackware.uk/people/alien/sbrepos/"
+           
+"name": "Mate-desktop",
+"url": "https://pub.mate-desktop.org/"
+           
+"name": "Slackware NL",
+"url": "https://slackware.nl/"
+
+"name": "GitHub - brave-browser",
+"url": "https://github.com/brave/brave-browser"
+            
+"name": "Index of nwg-shell",
+"url": "https://slackware.lngn.net/pub/x86_64/slackware64-current/nwg-shell/"
+            
+"name": "appimage ñibreoffice",
+"url": "https://appimages.libreitalia.org/"
+ 
+GITHUB
+ 
+"name": "javaragones GitHub",
+"url": "https://github.com/javaragones"
+            
+"name": "Hypr - GitHub",
+"url": "https://github.com/hyprwm"
+            
+"name": "Sway · GitHub",
+"url": "https://github.com/swaywm"
+            
+"name": "GitHub - Ponce",
+ "url": "https://github.com/Ponce/slackbuilds"
+            
+"name": "MATE Desktop · GitHub",
+"url": "https://github.com/mate-desktop"
+            
+"name": "GitHub - mateslackbuilds/",
+"url": "https://github.com/mateslackbuilds/msb"
+           
+"name": "dnkl - Codeberg.org",
+"url": "https://codeberg.org/dnkl"
+            
+"name": "GitHub - Waybar",
+"url": "https://github.com/Alexays/Waybar"
+            
+"name": "shotman- sourcehut",
+"url": "https://git.sr.ht/~whynothugo/shotman"
+            
+"name": "grim  sourcehut",
+"url": "https://git.sr.ht/~emersion/grim"
+           
+"name": "GitHub -mako",
+"url": "https://github.com/emersion/mako"
+            
+"name": "wofi - sourcehut",
+"url": "https://hg.sr.ht/~scoopta/wofi"
+           
+"name": "GitHub-nwg-shell_slackbuilds",
+ "url": "https://github.com/mac-a-r0ni/nwg-shell_slackbuilds"
+
+varios
+           
+"name": "Gmail",
+"url": "https://mail.google.com/mail/u/0/#inbox"
+         
+"name": "Outlook",
+"url": "https://outlook.live.com/mail/0/"
+        
+"name": "YouTube",
+"url": "https://www.youtube.com/"
+         
+"name": "Banco Macro",
+"url": "https://www.macro.com.ar/bancainternet/#"
+         
+"name": "WhatsApp",
+"url": "https://web.whatsapp.com/"
+         
+"name": "VEA Cencosud",
+"url": "https://supermercadosvea.com.ar/mendoza/vea-ofertas/"
+        
