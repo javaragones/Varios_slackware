@@ -176,8 +176,8 @@ MIRROR = "https://slackware.uk/cosmicde/x86_64/"
 
 [MSB]
 # Matt's SlackBuilds — KDE Plasma desktop environment packages for Slackware.
-ENABLE = false
-MIRROR = "https://slackware.uk/msb/15.0/1.28/x86_64/"
+ENABLE = true
+MIRROR = "https://slackware.uk/msb/current/latest/x86_64/"
 
 [CSB]
 # Community SlackBuilds — a collection of additional binary packages for Slackware.
